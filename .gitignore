@@ -1,0 +1,5 @@
+# Contiennent l'adresse e-mail d'administration (apps-script/) ou n'ont pas à être publiés (tests/)
+# Le script se colle dans Google Apps Script ; les tests se lancent en local.
+apps-script/
+tests/
+node_modules/
